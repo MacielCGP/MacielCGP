@@ -5,7 +5,7 @@ Sou estudante de **Engenharia Elétrica**, com uma forte base técnica e profiss
 Atualmente, meus projetos de código aberto e estudos por aqui têm dois focos principais:
 
 *   💻 **Programação de Firmware & Sistemas Embarcados:** Desenvolvimento focado em Internet das Coisas (IoT) e instrumentação, garantindo a coleta confiável de variáveis elétricas.
-*   📊 **Análise de Dados & Machine Learning:** Tratamento de dados, análise estatística e modelagem preditiva com foco em manutenção preditiva e Softsensor para controle e análiess (como detecção de falhas incipientes em motores de indução e análise em inversores).
+*   📊 **Análise de Dados & Machine Learning:** Tratamento de dados, análise estatística e modelagem preditiva com foco em manutenção preditiva e Softsensor para controle e análises (como detecção de falhas incipientes em motores de indução e análise em inversores).
 
 ### 🛠️ Tecnologias e Ferramentas
 
