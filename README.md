@@ -1,10 +1,10 @@
 # Olá! 👋 
 
-Sou estudante de **Engenharia Elétrica**, com uma forte base técnica e profissionalizante. Meu objetivo é extrair o máximo de inteligência do hardware, unindo eletrônica, modelagem matemática e programação de firmware.
+Sou estudante de **Engenharia Elétrica**, com base técnica e profissionalizante. Meu objetivo é extrair o máximo do hardware, unindo eletrônica, modelagem matemática e programação de firmware.
 
 Atualmente, meus projetos de código aberto e estudos por aqui têm dois focos principais:
 
-*   💻 **Programação de Firmware & Sistemas Embarcados:** Desenvolvimento focado em Internet das Coisas (IoT) e instrumentação, garantindo a coleta confiável de variáveis elétricas.
+*   💻 **Programação de Firmware & Sistemas Embarcados:** Desenvolvimento focado em Instrumentação e Internet das Coisas (IoT) , garantindo a coleta confiável de variáveis elétricas.
 *   📊 **Análise de Dados & Machine Learning:** Tratamento de dados, análise estatística e modelagem preditiva com foco em manutenção preditiva e Softsensor para controle e análises (como detecção de falhas incipientes em motores de indução e análise em inversores).
 
 ### 🛠️ Tecnologias e Ferramentas
